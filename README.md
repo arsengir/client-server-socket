@@ -1,11 +1,5 @@
 ## Overview
-Repository with preconfigured maven project with junit5 configuration
-
-## Building
-...
-
-## Troubleshooting
-...
+Основы работы с сетью. Модель OSI
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
